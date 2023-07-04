@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-💬 I'm android developer
 ___
 
 📫 How to reach me:
